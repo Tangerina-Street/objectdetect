@@ -1,0 +1,14 @@
+body
+{
+    background-color: darkblue;
+    color:peachpuff;
+    font-family:serif;
+}
+button
+{
+    color:darkblue;
+}
+canvas
+{
+    border: 5px ridge peachpuff;
+}
